@@ -34,7 +34,7 @@ In the following sections, you'll find instructions on setting up and running th
 
 ## Usage
 
-To run the application, use the following command into the folder which :
+To run the application, use the following command into the cloned folder:
 
 ```bash
 ./mvnw spring-boot:run -Dspring.config.location=application.properties
